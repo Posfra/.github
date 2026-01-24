@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-blue.svg" alt="Posfra" width="300" />
+  <img src="https://raw.githubusercontent.com/Posfra/.github/refs/heads/master/assets/logo-blue.svg" alt="Posfra" width="300" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 ---
-![Posfra.js Payment Widget](./assets/github-cover-image.jpg)
+![Posfra.js Payment Widget](https://raw.githubusercontent.com/Posfra/.github/refs/heads/master/assets/github-cover-image.jpg)
 
 # [Posfra.js](https://https://github.com/Posfra/posfra.js)
 **Posfra.js** is the official JavaScript SDK for integrating enterprise-grade Bitcoin payment infrastructure into your web apps and services.
