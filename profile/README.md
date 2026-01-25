@@ -16,13 +16,9 @@
 ![Posfra.js Payment Widget](https://raw.githubusercontent.com/Posfra/.github/refs/heads/master/assets/github-cover-image.jpg)
 
 # [Posfra.js](https://https://github.com/Posfra/posfra.js)
-**Posfra.js** is the official JavaScript SDK for integrating enterprise-grade Bitcoin payment infrastructure into your web apps and services.
-
-### Features
+**Posfra.js** is the official JavaScript SDK for Posfra.com Add Bitcoin payments to any website with just 2 lines of code.
 
 - **Seamless Payments** — Accept Bitcoin payments with just 2 lines of code
-- **Subscription Management** — Easily handle repeating billing cycles and manage customers
-- **Powerful API Client** — Access all of Posfra's APIs securely from your JavaScript or TypeScript codebase
 - **Customizable UI Components** — Embed elegant payment widgets and components directly in your app
 - **Real-Time Notifications** — Get instant webhooks and events for payment and subscription changes
 
