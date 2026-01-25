@@ -13,7 +13,7 @@
 </p>
 
 ---
-![Posfra.js Payment Widget](https://raw.githubusercontent.com/Posfra/.github/refs/heads/master/assets/github-cover-image.jpg)
+![Posfra.js Payment Widget](https://raw.githubusercontent.com/Posfra/.github/refs/heads/master/assets/github-cover-image.jpg?v=1.0.1)
 
 # [Posfra.js](https://github.com/Posfra/posfra.js)
 **Posfra.js** is the official JavaScript SDK for Posfra.com Add Bitcoin payments to any website with just 2 lines of code.
