@@ -15,7 +15,7 @@
 ---
 ![Posfra.js Payment Widget](https://raw.githubusercontent.com/Posfra/.github/refs/heads/master/assets/github-cover-image.jpg)
 
-# [Posfra.js](https://https://github.com/Posfra/posfra.js)
+# [Posfra.js](https://github.com/Posfra/posfra.js)
 **Posfra.js** is the official JavaScript SDK for Posfra.com Add Bitcoin payments to any website with just 2 lines of code.
 
 - **Seamless Payments** — Accept Bitcoin payments with just 2 lines of code
