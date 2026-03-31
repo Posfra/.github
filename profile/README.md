@@ -13,7 +13,7 @@
 </p>
 
 ---
-![Posfra.js Payment Widget](https://raw.githubusercontent.com/Posfra/.github/refs/heads/master/assets/github-cover-image.jpg?v=1.0.1)
+![Posfra.js Payment Widget](https://raw.githubusercontent.com/Posfra/.github/refs/heads/master/assets/github-cover-image.jpg?v=1.0.2)
 
 # [Posfra.js](https://github.com/Posfra/posfra.js)
 **Posfra.js** allows you to integrate seamless Bitcoin payment experiences into your web applications. We provide ready-to-use, customizable UI components that securely handle the payment process. For full flexibility, you can also use our low-level JavaScript SDK to build fully custom payment flows tailored to your needs.
