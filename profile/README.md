@@ -7,9 +7,9 @@
 </p>
 
 <p align="center"> |
-  <a href="https://posfra.com">Website</a> |
+  <a href="https://posfra.com">Posfra.com</a> |
   <a href="https://docs.posfra.com">Documentation</a> | 
-  <a href="https://t.me/+MJp4po2WEug1YjRh">Support</a> | 
+  <a href="https://github.com/Posfra/posfra.js">Posfra.js</a> | 
 </p>
 
 ---
